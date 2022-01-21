@@ -5,4 +5,5 @@ for (let i = 1; i < 51; i++) {
 		return array.push(i);
 	}
 }
+
 console.log(array);
